@@ -1,0 +1,26 @@
+.chessboard {
+	text-align: center;
+}
+
+.row {
+	/* margin-bottom: -4px; */
+}
+
+.black {
+	background-color: #441a03;
+	width:45px;
+	height:45px;
+}
+
+.white {
+	background-color: #b5915f;
+	width:45px;
+	height:45px;
+}
+
+span {
+	display: table-cell;
+	color: white;
+	vertical-align: middle;
+	text-align: center;
+}
